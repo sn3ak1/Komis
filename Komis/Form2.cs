@@ -53,7 +53,7 @@ namespace Komis
 
         private void comboBox4_SelectedIndexChanged(object sender, EventArgs e)
         {
-            var car = (Brand.Model.Car) comboBox4.SelectedItem;
+            var car = (Brand.Model.ColorImg) comboBox4.SelectedItem;
             pictureBox1.Image = car.Img;
         }
 

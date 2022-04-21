@@ -15,14 +15,14 @@ namespace Komis
                 new Brand.Model("a1", engines,
                     new[]
                     {
-                        new Brand.Model.Car("red", Properties.Resources.test),
-                        new Brand.Model.Car("white", Properties.Resources._20221)
+                        new Brand.Model.ColorImg("red", Properties.Resources.test),
+                        new Brand.Model.ColorImg("white", Properties.Resources._20221)
                     }),
                 new Brand.Model("a2", engines,
                     new[]
                     {
-                        new Brand.Model.Car("red", Properties.Resources.test),
-                        new Brand.Model.Car("white", Properties.Resources._20221)
+                        new Brand.Model.ColorImg("red", Properties.Resources.test),
+                        new Brand.Model.ColorImg("white", Properties.Resources._20221)
                     }),
 
             }));
@@ -31,14 +31,14 @@ namespace Komis
                 new Brand.Model("b1",engines,
                     new[]
                     {
-                        new Brand.Model.Car("red", Properties.Resources.test),
-                        new Brand.Model.Car("white", Properties.Resources._20221)
+                        new Brand.Model.ColorImg("red", Properties.Resources.test),
+                        new Brand.Model.ColorImg("white", Properties.Resources._20221)
                     }),
                 new Brand.Model("b2",engines,
                     new[]
                     {
-                        new Brand.Model.Car("red", Properties.Resources.test),
-                        new Brand.Model.Car("white", Properties.Resources._20221)
+                        new Brand.Model.ColorImg("red", Properties.Resources.test),
+                        new Brand.Model.ColorImg("white", Properties.Resources._20221)
                     }),
             }));
         }

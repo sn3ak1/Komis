@@ -9,12 +9,12 @@ namespace Komis
     {
         public class Model
         {
-            public class Car
+            public class ColorImg
             {
                 public string Color { get; }
                 public Image Img { get; }
                 
-                public Car(string color, Image img)
+                public ColorImg(string color, Image img)
                 {
                     Color = color;
                     Img = img;
@@ -22,8 +22,8 @@ namespace Komis
             }
             public string Name { get; }
             public string[] Engines { get; }
-            public Car[] Cars { get; }
-            public Model(string name, string[] engines, Car[] cars)
+            public ColorImg[] Cars { get; }
+            public Model(string name, string[] engines, ColorImg[] cars)
             {
                 Name = name;
                 Engines = engines;

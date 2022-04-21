@@ -41,7 +41,7 @@ namespace Komis
             // 
             this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(117, 63);
+            this.comboBox1.Location = new System.Drawing.Point(83, 58);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 21);
             this.comboBox1.TabIndex = 1;
@@ -52,7 +52,7 @@ namespace Komis
             this.comboBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2.Enabled = false;
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(117, 159);
+            this.comboBox2.Location = new System.Drawing.Point(83, 151);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(121, 21);
             this.comboBox2.TabIndex = 2;
@@ -63,7 +63,7 @@ namespace Komis
             this.comboBox3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox3.Enabled = false;
             this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(117, 243);
+            this.comboBox3.Location = new System.Drawing.Point(83, 251);
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(121, 21);
             this.comboBox3.TabIndex = 3;
@@ -74,7 +74,7 @@ namespace Komis
             this.comboBox4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox4.Enabled = false;
             this.comboBox4.FormattingEnabled = true;
-            this.comboBox4.Location = new System.Drawing.Point(117, 351);
+            this.comboBox4.Location = new System.Drawing.Point(83, 359);
             this.comboBox4.Name = "comboBox4";
             this.comboBox4.Size = new System.Drawing.Size(121, 21);
             this.comboBox4.TabIndex = 4;
@@ -83,9 +83,9 @@ namespace Komis
             // pictureBox1
             // 
             this.pictureBox1.InitialImage = global::Komis.Properties.Resources.test;
-            this.pictureBox1.Location = new System.Drawing.Point(350, 85);
+            this.pictureBox1.Location = new System.Drawing.Point(282, 58);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(367, 250);
+            this.pictureBox1.Size = new System.Drawing.Size(455, 322);
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
             // 
