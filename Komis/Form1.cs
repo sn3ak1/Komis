@@ -34,5 +34,13 @@ namespace Komis
             this.Hide();
             form.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            var form = new Form4();
+            form.FormClosed += (s, args) => this.Show();
+            this.Hide();
+            form.Show();
+        }
     }
 }
