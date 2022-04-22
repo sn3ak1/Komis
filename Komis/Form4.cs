@@ -46,6 +46,8 @@ namespace Komis
             car.Reservations.ForEach(r => dates.Add(r.Date));
             monthCalendar1.BoldedDates = dates.ToArray();
             monthCalendar1.Enabled = true;
+            textBox1.Enabled = true;
+            textBox2.Enabled = true;
         }
 
         private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
