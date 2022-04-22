@@ -124,4 +124,76 @@
   <data name="test" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\test.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="placeholder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\placeholder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e_tron_black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e_tron_black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e_tron_blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e_tron_blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e_tron_grey" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e_tron_grey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a8_black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a8_black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a8_blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a8_blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a8_white" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a8_white.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_718_black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_718_black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_718_red" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_718_red.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_718_white" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_718_white.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_718_yellow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_718_yellow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p911_black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p911_black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p911_green" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p911_green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p911_orange" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p911_orange.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p911_white" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p911_white.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z4_black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z4_black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z4_red" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z4_red.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z4_white" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z4_white.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m240_black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m240_black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m240_purple" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m240_purple.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m240_white" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m240_white.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="x1_blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\x1_blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="x1_orange" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\x1_orange.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="x1_white" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\x1_white.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

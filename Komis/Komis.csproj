@@ -113,9 +113,33 @@
   <ItemGroup>
     <Content Include="images\2022.png" />
     <Content Include="images\test.jpg" />
+    <Content Include="Resources\a8_black.png" />
+    <Content Include="Resources\a8_blue.png" />
+    <Content Include="Resources\a8_white.png" />
+    <Content Include="Resources\e_tron_black.png" />
+    <Content Include="Resources\e_tron_blue.png" />
+    <Content Include="Resources\e_tron_grey.png" />
+    <Content Include="Resources\m240_black.png" />
+    <Content Include="Resources\m240_purple.png" />
+    <Content Include="Resources\m240_white.png" />
+    <Content Include="Resources\p911_black.png" />
+    <Content Include="Resources\p911_green.png" />
+    <Content Include="Resources\p911_orange.png" />
+    <Content Include="Resources\p911_white.png" />
+    <Content Include="Resources\placeholder.png" />
     <Content Include="Resources\test.jpg" />
+    <Content Include="Resources\x1_blue.png" />
+    <Content Include="Resources\x1_orange.png" />
+    <Content Include="Resources\x1_white.png" />
+    <Content Include="Resources\z4_black.png" />
+    <Content Include="Resources\z4_red.png" />
+    <Content Include="Resources\z4_white.png" />
     <Content Include="Resources\_2022.png" />
     <Content Include="Resources\_20221.png" />
+    <Content Include="Resources\_718_black.png" />
+    <Content Include="Resources\_718_red.png" />
+    <Content Include="Resources\_718_white.png" />
+    <Content Include="Resources\_718_yellow.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

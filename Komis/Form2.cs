@@ -11,7 +11,6 @@ namespace Komis
             comboBox1.DisplayMember = "Name";
             comboBox2.DisplayMember = "Name";
             comboBox4.DisplayMember = "Color";
-            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             comboBox1.DataSource = BrandsBuilder.Brands;
         }
 
@@ -56,7 +55,6 @@ namespace Komis
             var car = (Brand.Model.ColorImg) comboBox4.SelectedItem;
             pictureBox1.Image = car.Img;
         }
-
         
     }
 }
